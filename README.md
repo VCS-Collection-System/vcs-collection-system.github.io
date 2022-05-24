@@ -1,2 +1,2 @@
-# vcs.github.io
+# vcs-collection-system.github.io
 The VCS website
